@@ -80,7 +80,7 @@ body{
   margin-left: 100px;
 }
 
-@media (max-width:600px)  {
+@media screen and (max-width:600px)  {
   body{
     background: #fff;
   }
