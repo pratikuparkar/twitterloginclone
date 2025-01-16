@@ -79,3 +79,9 @@ body{
   color:#359cf0;
   margin-left: 100px;
 }
+
+@media (max-width:600px)  {
+  body{
+    background: #fff;
+  }
+}
